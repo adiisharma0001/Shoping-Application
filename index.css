@@ -64,10 +64,12 @@ h2 {
 #cart-list {
     list-style-type: none;
     padding: 0;
+    
 }
 
 #cart-list li {
     margin-bottom: 10px;
+    
 }
 
 #total-amount {
